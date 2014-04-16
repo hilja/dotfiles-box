@@ -1,0 +1,10 @@
+# Apple crap
+.DS_Store
+# Sass cache folder
+.sass-cache
+# Sometimes you may wanna ignore the Sublime Text project files
+*.sublime-project
+*.sublime-workspace
+# Sublime Text SFTP config file (the ~ is how I deactivate the file)
+sftp-config.json~
+sftp-config.json
