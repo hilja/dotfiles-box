@@ -5,8 +5,6 @@ NOTE: Still really beta.
 
 This differs a bit from the [OSX dotfiles][3] that I have. These are meant for a remote Ubuntu box, works a bit differently.
 
-This differs a bit from the [OSX dotfiles][3] that I have. It's meant for a remote Ubuntu box.
-
 ## Install
 
 Just run this:
@@ -22,6 +20,9 @@ It does:
 - Run the `bootstrap.sh` script, that will copy the files from the `dotfiles` dir and put them to `~/`
 
 Pretty much ripped from [here][1] and [here][2].
+
+To update:
+
 - `cd` into the `dotfiles` dir
 - Run the `bootstrap.sh` script, that will copy the files from the `dotfiles` dir and put them to `~/`
 
